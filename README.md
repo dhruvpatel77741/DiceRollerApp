@@ -25,7 +25,7 @@ A simple Android app built with **Kotlin** and **Jetpack Compose** that simulate
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/DiceRollerApp.git
+   git clone https://github.com/dhruvpatel77741/DiceRollerApp.git
    ```
 
 2. Open in Android Studio
